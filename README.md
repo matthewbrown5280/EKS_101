@@ -4,10 +4,10 @@
 
 
 EKS NGINX Hello World Outline
-> in a nutshell; create an EC2, download the key software (Git,EKSctl,KubeCtl)
-> use EKSctl to spawn the cluster (Its that simple)
-> use Kubectle to configure the cluster and 'control' the cluster
-> simple deployments can be done with kubectle and the CF templates for NGINX
+> In a nutshell; create an EC2, download the key software (Git,EKSctl,KubeCtl).
+> Use EKSctl to spawn the cluster (Its that simple).
+> Use Kubectle to configure the cluster and 'control' the cluster.
+> Simple deployments can be done with kubectle and the CF templates for NGINX
 
 
 - Create an AWS IAM service role and an AWS VPC.
