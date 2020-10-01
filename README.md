@@ -28,7 +28,7 @@ kubectl apply -f ./nginx-deployment.yaml
 - Cleaning up the application & assigned resources.
  
  
-# EKS NGINX Hello World (CF & Nginx Yamls)
+# EKS NGINX Hello World (CF & NGINX Yamls)
  -  nginx-deployment.yaml
  -  nginx-svc.yaml
 
