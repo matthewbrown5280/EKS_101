@@ -1,7 +1,14 @@
 # EKS Cluster (no frills) 
 # CloudFormation + AWS CLI (kubectl/ecsctl commands)
 
-Hello World Outline/Process
+
+
+EKS NGINX Hello World Outline
+> in a nutshell; create an EC2, download the key software (Git,EKSctl,KubeCtl)
+> use EKSctl to spawn the cluster (Its that simple)
+> use Kubectle to configure the cluster and 'control' the cluster
+> simple deployments can be done with kubectle and the CF templates for NGINX
+
 
 - Create an AWS IAM service role and an AWS VPC.
 - Launch an EC2 Instance and Configure the Command Line Tools
